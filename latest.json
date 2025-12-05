@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
-  "notes": "Version 1.0.0 - Fixed update check detection with improved fallback logic and logging",
-  "pub_date": "2025-12-05T21:16:16.882Z",
+  "version": "0.9.0",
+  "notes": "Version 0.9.0 - Rebuilt with improved update detection fallback logic",
+  "pub_date": "2025-12-05T21:27:59.445Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "",
-      "url": "https://github.com/TECHOSAUR-LABS/TECHOSAUR-SYSTEM-OPTIMIZER/releases/download/v1.0.0/TECHOSAUR.System.Optimizer_1.0.0_x64-setup.exe"
+      "url": "https://github.com/TECHOSAUR-LABS/TECHOSAUR-SYSTEM-OPTIMIZER/releases/download/v0.9.0/TECHOSAUR.System.Optimizer_0.9.0_x64-setup.exe"
     }
   }
 }
