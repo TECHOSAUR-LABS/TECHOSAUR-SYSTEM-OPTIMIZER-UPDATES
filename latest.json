@@ -5,7 +5,7 @@
     "platforms":  {
                       "windows-x86_64":  {
                                              "signature":  "",
-                                             "url":  "https://github.com/TECHOSAUR-LABS/TECHOSAUR-SYSTEM-OPTIMIZER/releases/download/v1.0.0/TECHOSAUR System Optimizer_1.0.0_x64-setup.exe"
+                                             "url":  "https://github.com/TECHOSAUR-LABS/TECHOSAUR-SYSTEM-OPTIMIZER/releases/download/v1.0.0/TECHOSAUR.System.Optimizer_1.0.0_x64-setup.exe"
                                          }
                   }
 }
