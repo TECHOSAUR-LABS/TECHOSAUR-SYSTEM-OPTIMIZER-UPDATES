@@ -1,11 +1,11 @@
-{
-    "version":  "1.0.0",
-    "notes":  "Version 1.0.0 - Major release with improved update dialog, changelog view, seamless in-app updates, and all latest fixes",
-    "pub_date":  "2025-12-05T22:32:53.182Z",
+﻿{
     "platforms":  {
                       "windows-x86_64":  {
                                              "signature":  "",
-                                             "url":  "https://api-sigma-cyan.vercel.app/api/get-download-url?version=1.0.0&platform=windows-x86_64"
+                                             "url":  "https://api-sigma-cyan.vercel.app/api/get-download-url?version=1.0.0\u0026platform=windows-x86_64"
                                          }
-                  }
+                  },
+    "pub_date":  "2025-12-07T15:36:51Z",
+    "version":  "1.0.0",
+    "notes":  "Major release with improved update system, real-time progress, and comprehensive security enhancements"
 }
