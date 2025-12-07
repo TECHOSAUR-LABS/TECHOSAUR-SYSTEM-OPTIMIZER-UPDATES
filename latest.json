@@ -5,7 +5,7 @@
     "platforms":  {
                       "windows-x86_64":  {
                                              "signature":  "",
-                                             "url":  "https://api-i9hg4nwua-techosaur-labs.vercel.app/api/get-download-url?version=1.0.0\u0026platform=windows-x86_64\u0026token=USER_PATREON_TOKEN"
+                                             "url":  "https://api-sigma-cyan.vercel.app/api/get-download-url?version=1.0.0&platform=windows-x86_64"
                                          }
                   }
 }
