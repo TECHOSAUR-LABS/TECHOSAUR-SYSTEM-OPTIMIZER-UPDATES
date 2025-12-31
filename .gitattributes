@@ -1,0 +1,8 @@
+# Prevent source code from being included in GitHub-generated archives
+# This file should be in the PUBLIC updates repository only
+# Since the public repo only contains README.md, this is just a safety measure
+
+# Exclude everything except README
+* -export-ignore
+README.md export-ignore=false
+
